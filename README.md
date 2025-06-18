@@ -2,7 +2,6 @@ WELCOME TO J.A.R.V.I.S
 
 HOW TO DOWNLOAD ALL NEEDED FILES :
 
-1. Go to the github https://github.com/chris1188/Helldivers2JarvisPublic
 2. Under the title 'Helldivers2JarvisPublic' you should see 'TestRelease1'
     - if you see 'main' click that, then you should be able to click 'TestRelease1'
 3. You should see folders like ArrowPresser and JarvisAudioReplies along with JARVIS_gui.exe
