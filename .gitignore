@@ -1,0 +1,17 @@
+# ignore all wandb runs & logs
+wandb/
+model_cache/
+jarvis_minimal_env/
+TestVoiceRecognition.exe
+JARVIS.exe
+wav2vec2-finetuned/
+
+# python bytecode
+__pycache__/
+*.py[cod]
+*.safetensors
+*.pt
+
+# environment / IDE folders
+.env
+.vscode/
