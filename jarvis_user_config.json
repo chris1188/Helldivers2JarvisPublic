@@ -1,7 +1,7 @@
 {
   "stratagem_menu_key": "e",
-  "audio_profile": "Friday",
-  "wake_word": "Friday",
+  "audio_profile": "Jarvis",
+  "wake_word": "Jarvis",
   "audio_input_device": null,
   "monitor_index": 0,
   "capture_center_width": 652,
