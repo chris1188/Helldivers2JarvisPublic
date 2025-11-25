@@ -9,9 +9,9 @@
   "wake_word": "Jarvis",
   "sendinput_between_delay": 0.03,
   "sendinput_down_up_delay": 0.03,
-  "menu_open_delay_jammer": 0.15,
-  "menu_open_delay": 0.025,
-  "menu_hold": 0.035,
+  "menu_open_delay_jammer": 0.03,
+  "menu_open_delay": 0.03,
+  "menu_hold": 0.03,
   "key_tap_hold": 0.03,
   "audio_reply_volume": 1.0,
   "audio_input_device": null,
@@ -48,12 +48,12 @@
   "arrow_roi_offset_bottom": 56,
   "arrow_roi_offset_left": 77,
   "arrow_roi_offset_right": 285,
-  "cooldowns_mode": "all_on",
+  "cooldowns_mode": "all_off",
   "cooldown_groups": {
-    "eagle": false,
-    "orbital": false,
-    "support_weapons": false,
-    "sentry": false,
-    "backpacks": false
+    "eagle": true,
+    "orbital": true,
+    "support_weapons": true,
+    "sentry": true,
+    "backpacks": true
   }
 }
