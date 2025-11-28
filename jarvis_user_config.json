@@ -56,5 +56,6 @@
     "sentry": true,
     "backpacks": true
   },
-  "debug_transcription": true
+  "debug_transcription": true,
+  "vad_aggressiveness": 2
 }
