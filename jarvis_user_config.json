@@ -48,12 +48,13 @@
   "arrow_roi_offset_bottom": 56,
   "arrow_roi_offset_left": 77,
   "arrow_roi_offset_right": 285,
-  "cooldowns_mode": "all_off",
+  "cooldowns_mode": "all_on",
   "cooldown_groups": {
     "eagle": true,
     "orbital": true,
     "support_weapons": true,
     "sentry": true,
     "backpacks": true
-  }
+  },
+  "debug_transcription": true
 }
