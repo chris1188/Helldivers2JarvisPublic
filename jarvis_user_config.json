@@ -48,7 +48,7 @@
   "arrow_roi_offset_bottom": 56,
   "arrow_roi_offset_left": 77,
   "arrow_roi_offset_right": 285,
-  "cooldowns_mode": "all_on",
+  "cooldowns_mode": "all_off",
   "cooldown_groups": {
     "eagle": true,
     "orbital": true,
@@ -56,6 +56,10 @@
     "sentry": true,
     "backpacks": true
   },
-  "debug_transcription": true,
-  "vad_aggressiveness": 2
+  "debug_transcription": false,
+  "vad_aggressiveness": 2,
+  "arrow_key_up": "up",
+  "arrow_key_down": "down",
+  "arrow_key_left": "left",
+  "arrow_key_right": "right"
 }
