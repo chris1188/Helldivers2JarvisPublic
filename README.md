@@ -1,4 +1,6 @@
-**1. Download everything under TestRelease1.1**
+** DON'T USE THIS YET USE VERSION 1.0
+
+1. Download everything under TestRelease1.1**
 
 
   **- If you know how to use git you can clone the repo**
