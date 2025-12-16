@@ -1,17 +1,15 @@
-# ignore all wandb runs & logs
+VoiceDetectionModels/
 wandb/
 model_cache/
 jarvis_minimal_env/
 TestVoiceRecognition.exe
+TestMicrophone.exe
 JARVIS.exe
+JARVIS_GUI(RunThis).exe
 wav2vec2-finetuned/
-
-# python bytecode
 __pycache__/
 *.py[cod]
 *.safetensors
 *.pt
-
-# environment / IDE folders
 .env
 .vscode/
