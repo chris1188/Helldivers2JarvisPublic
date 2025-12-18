@@ -1,4 +1,4 @@
-** DON'T USE THIS YET USE VERSION 1.0
+**
 
 1. Download everything under TestRelease1.1**
 
