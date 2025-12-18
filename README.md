@@ -1,6 +1,6 @@
-**
 
-1. Download everything under TestRelease1.1**
+
+**1. Download everything under TestRelease1.1**
 
 
   **- If you know how to use git you can clone the repo**
